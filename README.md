@@ -42,6 +42,10 @@ Dataset contains 15 different directories:-
 each containing images in **.jpg** format.
 
 
+Accuracy we got is > **97%** .
+
+
+
 
 
 
