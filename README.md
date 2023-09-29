@@ -2,7 +2,7 @@
 
 ## Problem Statement:-
 
-### "Farmers every year face economic loss and crop waste due to various diseases in potato plants. Early blight and Late blight are major diseases of potato leaf. It is estimated that the major loss occurred in potato yield is due to these diseases."
+### "Every year, farmers face substantial economic losses and crop wastage due to diseases that affect potato plants. Two of the most devastating diseases that afflict potato leaves are Early Blight and Late Blight. These diseases are responsible for significant reductions in potato yields and can lead to severe economic hardship for farmers"
 
 Thus the images are classified into 3 classes :
 
