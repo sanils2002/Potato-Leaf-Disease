@@ -1,1 +1,1 @@
-# Potato-Leaf-Disease
+# Potato-Leaf-Disease Predictor 
