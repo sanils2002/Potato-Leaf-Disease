@@ -26,7 +26,7 @@ Thus the images are classified into 3 classes :
 + **Matplotlib**
 + **Pathlib**
 
-  ## Dataset :-
+## Dataset :-
 
 The dataset is being taken from ["here"](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
 
@@ -39,7 +39,7 @@ Dataset contains 15 different directories:-
 
 + *Potato___healthy*
 
-each containing images in **.jpg** format
+each containing images in **.jpg** format.
 
 
 
