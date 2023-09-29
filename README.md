@@ -44,6 +44,7 @@ each containing images in **.jpg** format.
 ## Output:-
 
 
+
 ![image](https://github.com/sanils2002/Potato-Leaf-Disease/assets/81878805/659b821c-420a-45f3-963a-b435566392f6)
 
 
