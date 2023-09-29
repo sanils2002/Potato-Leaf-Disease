@@ -28,7 +28,21 @@ Thus the images are classified into 3 classes :
 
   ## Dataset :-
 
-  The dataset is being taken from ["here"](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
+The dataset is being taken from ["here"](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
+
+Dataset contains 15 different directories:-
+
+
++ *Potato___Early_blight*
+
++ *Potato___Late_blight*
+
++ *Potato___healthy*
+
+each containing **.jpg** format
+
+
+
 
 
   
