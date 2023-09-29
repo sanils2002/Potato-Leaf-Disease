@@ -28,7 +28,7 @@ Thus the images are classified into 3 classes :
 
   ## Dataset :-
 
-  The dataset is being taken from ["This kaggle dataset"](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
+  The dataset is being taken from ["here"](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
 
 
   
