@@ -17,3 +17,12 @@ Thus the images are classified into 3 classes :
 *  *Early Blight leaves* 
 
   ![image](https://github.com/sanils2002/Potato-Leaf-Disease/assets/81878805/c22bb77b-22b0-498a-8f34-b53c59101125)
+
+## TechStack used :- 
+
++ **Tensorflow**
++ **Numpy**
++ **Keras**
++ **Matplotlib**
++ **Pathlib**
+  
