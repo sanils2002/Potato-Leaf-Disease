@@ -25,4 +25,10 @@ Thus the images are classified into 3 classes :
 + **Keras**
 + **Matplotlib**
 + **Pathlib**
+
+  ## Dataset :-
+
+  The dataset is being taken from ["This kaggle dataset"](https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
+
+
   
