@@ -39,7 +39,7 @@ Dataset contains 15 different directories:-
 
 + *Potato___healthy*
 
-each containing **.jpg** format
+each containing images in **.jpg** format
 
 
 
