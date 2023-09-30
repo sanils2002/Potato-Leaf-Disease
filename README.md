@@ -43,7 +43,7 @@ each containing images in **.jpg** format.
 
 ## Workflow:- 
 
-![image](https://github.com/sanils2002/Potato-Leaf-Disease/assets/79133211/ca3b0de2-0b24-401d-acfb-9806c4f4831f)
+![image](https://github.com/sanils2002/Potato-Leaf-Disease/assets/81878805/614c3055-fa51-45e3-be41-98206e0eeae8)
 
 ## Output:-  
 
